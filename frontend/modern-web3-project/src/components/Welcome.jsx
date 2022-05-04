@@ -50,7 +50,7 @@ const Welcome = () => {
                         </p>
                     </button>
 
-                    <div className="flex-row grid sm:grid-cols-3 grid-cols-2 w-full m-10">
+                    <div className="flex-row grid sm:grid-cols-3 grid-cols-2 w-full m-0">
                         <div className={`rounded-tl-2xl ${commonStyles}`}>
                             Reliability
                         </div>
