@@ -1,3 +1,4 @@
+// npx hardhat run scripts/deploy.js --network ropsten 
 const main = async () => {
   
   const Transactions = await hre.ethers.getContractFactory("Transactions");
